@@ -1,0 +1,9 @@
+export const WHATSADEAL = 'WhatsADeal';
+export const W = 'W';
+export const HATSA = 'hatsA';
+export const D = 'D';
+export const EAL = 'eal';
+export const LOGIN = 'Login';
+export const OR = 'or';
+export const SIGNUP = 'SignUp';
+export const LOGIN_CAPITAL = 'LOGIN';
